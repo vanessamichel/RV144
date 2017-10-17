@@ -54,7 +54,9 @@ rownames(results) <- c("none","aids")
 ```{r}
 barchartGC(results,type = "percent")
 ```
-The bar chart shows us that about 40% of participants taking the vaccine contracted HIV, vs. 60% of participants who received the placebo contracted HIV.
+
+
+The bar chart shows us that about 40% of participants taking the vaccine contracted HIV, vs. 60% of participants who received the placebo contracted HIV. Therefore, participants who do not receive the vaccine are 20% more likely to contract HIV than those who do receive it. This is a significant difference. 
 
 ### Numerical Results
 
