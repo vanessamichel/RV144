@@ -79,7 +79,7 @@ chisqtestGC(results, graph = TRUE)
 ```
 
 
-The chi-square statistic is 3.9. The degrees of freedom reported to be 1. Since P=0.04, we reject the null hypothesis. The sample data appears to show strong evidence that there is a relationship between receiving the vaccine for HIV and whether or not one contracts the virus. 
+The chi-square statistic is 3.9. The degrees of freedom reported to be 1. Since P=0.04, less than 5%, we reject the null hypothesis. The sample data appears to show strong evidence that there is a relationship between receiving the vaccine for HIV and whether or not one contracts the virus. 
 
 ```{r}
 fisher.test(results)
