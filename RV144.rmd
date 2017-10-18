@@ -49,6 +49,8 @@ rownames(results) <- c("none","aids")
 ## Results
 <!-- You are to add descriptive comments to explain to the reader what the plot is showing !-->
 
+We are going to display run a number of results to compare our 2 groups of non-aids and aids participants and group them into participants in each group who received the vaccine and ones who received the placebo. We will display a bar chart graph as well as two way tables and chi-squared and fisher tests to help display our results. 
+
 ### Graphical results
 <!--Display graphical evidence as to the effectiveness of the vaccine with explanations!-->
 ```{r}
