@@ -70,7 +70,7 @@ rowPerc(results)
 ```
 
 
-
+The row percents are telling us that aids group included 40% of participants who received the vaccine, compared to 60% of partipants who received the placebo. Again, these results show a big signifcance is lowering the odds of contracting HIV when receiving the vaccine. 
 
 ## Inferential results
 
