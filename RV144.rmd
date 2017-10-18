@@ -92,3 +92,5 @@ The fishter test also provide a p value of 0.04, which further confirms that we 
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
+
+We conclude that receiving the vaccine had a definite relationship to whether or not one contracted HIV. The vaccine led to a 20% decrease in number of participants who contracted virus. 
